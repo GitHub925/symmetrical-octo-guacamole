@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+origamime{
+    font-family: 'Caveat';
+    font-size:45px;
+}
+
+origamiyou{
+    font-family: 'Caveat';
+    font-size: 30px
+}
+
+canvas{
+    border: 10px ridge skyblue;
+    box-shadow: 20px 20px 20px crimson
+}
+
